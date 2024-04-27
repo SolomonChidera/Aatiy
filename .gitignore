@@ -128,6 +128,22 @@ ENV/
 env.bak/
 venv.bak/
 
+# test html files
+c.html
+b.html
+a.html
+coming.html
+
+# Node stuff
+package-lock.json
+package.json
+.DS_Store
+node_modules
+
+#Firebase stuff
+firbase.json
+.firebaserc
+
 # Spyder project settings
 .spyderproject
 .spyproject
