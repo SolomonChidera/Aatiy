@@ -133,6 +133,7 @@ c.html
 b.html
 a.html
 coming.html
+index.html
 
 # Node stuff
 package-lock.json
@@ -141,9 +142,9 @@ package.json
 node_modules
 
 #Firebase stuff
-firbase.json
-.firebaserc
-
+#firebase.json
+#.firebaserc
+.firebase
 # Spyder project settings
 .spyderproject
 .spyproject
